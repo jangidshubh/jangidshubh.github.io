@@ -2,12 +2,17 @@
 
 
 ### Nested Pointer Products
+
 **Nested Vidya**
-A online Automation School System.
+
+* A online Automation School System.
+
 **Web the Builder BOB**
-BOB is a Website builder tool where you can easily create website for your business.
+
+* BOB is a Website builder tool where you can easily create website for your business.
+
 **IOT**
-We work on IOT.
+* We work on IOT.
 
 **WIKI**
 
